@@ -3,3 +3,6 @@ emoji
 type option
 color 
 vibrant 
+dark mode
+send money
+receive money 
